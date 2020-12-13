@@ -1,7 +1,7 @@
 # Labview for PLC
 
 #### 介绍
-Labview For PLC
+Labview for PLC
 
 #### 软件架构
 软件架构说明
