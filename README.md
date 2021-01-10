@@ -30,9 +30,10 @@ Labview for PLC
 #### 安装教程
 Labview安装：
 Labview下载网址：http://download.ni.com/evaluation/labview/ekit/other/downloader。
-选择
-2018LV-WinChn.exe   （Labview2018中文版）
-2018DSC.exe（Labview数据采集与记录模块，附带Kepware OPC Server 2016）
+ 
+选择  
+2018LV-WinChn.exe   （Labview2018中文版）  
+2018DSC.exe（Labview数据采集与记录模块，附带Kepware OPC Server 2016），不是必要的，但可以尝试使用OPC的方式连接PLC。
 
 
 #### 使用说明
