@@ -14,22 +14,22 @@ Labview for PLC
 
 03_LM_S7NetCom：
 该项目为开源库S7NetCom的使用演示，
-关于S7NetCom库的详细信息：https://dokuwiki.hampel-soft.com/code/open-source/s7netcom。
+关于S7NetCom库的详细信息：https://dokuwiki.hampel-soft.com/code/open-source/s7netcom
 
 101_LM_Snap7：
 该项目为Snap7库的使用演示，
-关于Snap7库的详细信息：http://snap7.sourceforge.net。
+关于Snap7库的详细信息：http://snap7.sourceforge.net
 
 
 102_LM_HslCommunication：
 该项目为HslCommunication库的使用演示，
-关于HslCommunication库的详细信息：http://www.hslcommunication.cn。
+关于HslCommunication库的详细信息：http://www.hslcommunication.cn
 
 后续有待更新。
 
 #### 安装教程
 Labview安装：
-Labview下载网址：http://download.ni.com/evaluation/labview/ekit/other/downloader。
+Labview下载网址：http://download.ni.com/evaluation/labview/ekit/other/downloader
  
 选择  
 2018LV-WinChn.exe   （Labview2018中文版）  
